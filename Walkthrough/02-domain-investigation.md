@@ -1,10 +1,8 @@
 # 02 - Domain Investigation
 
-```markdown
 <p align="center">
   <img src="../Pictures/OSINT_Pinch.jpg" alt="OSINT Domain Investigation" width="80%">
 </p>
-```
 
 ## Objective
 
