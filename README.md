@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0369A1,100:22D3EE&height=170&section=header&text=OSINT%20Tools%20Project&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0369A1,100:22D3EE&height=170&section=header&text=OSINT%20Tools%20Project&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="OSINT Tools Project Banner" width="100%">
+</p>
 
 <p align="center">
   <img src="Pictures/OSINT_Main_ReadMe.jpg" alt="OSINT Tools Project Main Banner" width="100%">
@@ -214,4 +216,6 @@ Although the selected target in this project was legitimate, the workflow and me
 
 ---
 
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,45:0369A1,100:020617&height=120&section=footer" />
+</p>
