@@ -1,10 +1,8 @@
 # 06 - Threat Intel Mapping
 
-```markdown
 <p align="center">
   <img src="../Pictures/OSINT_Globe.jpg" alt="OSINT Threat Intel Mapping" width="80%">
 </p>
-```
 
 ## Objective
 
