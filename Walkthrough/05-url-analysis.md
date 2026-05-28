@@ -1,10 +1,8 @@
 # 05 - URL Analysis
 
-```markdown
 <p align="center">
   <img src="../Pictures/OSINT_Face.jpg" alt="OSINT URL Analysis" width="80%">
 </p>
-```
 
 ## Objective
 
