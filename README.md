@@ -117,15 +117,6 @@ No exploitation, vulnerability scanning, credential access, authentication bypas
 OSINT Tools Project/
 │
 ├── README.md
-├── Pictures/
-│   ├── OSINT_Main_ReadMe.jpg
-│   ├── OSINT_Palm.png
-│   ├── OSINT_Pinch.jpg
-│   ├── OSINT_Point.jpg
-│   ├── OSINT_Thumbprint.jpg
-│   ├── OSINT_Face.jpg
-│   ├── OSINT_Globe.jpg
-│   └── OSINT_Palm.jpg
 ├── Reports/
 │   └── osint-final-investigation-report.md
 ├── Screenshots/
