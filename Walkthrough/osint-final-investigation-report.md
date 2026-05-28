@@ -1,10 +1,8 @@
 # OSINT Final Investigation Report
 
-```markdown
 <p align="center">
   <img src="../Pictures/OSINT_Palm.jpg" alt="OSINT Final Investigation Report" width="80%">
 </p>
-```
 
 ## Executive Summary
 
