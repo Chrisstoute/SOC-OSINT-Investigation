@@ -1,10 +1,8 @@
 # 03 - Certificate Transparency
 
-```markdown
 <p align="center">
   <img src="../Pictures/OSINT_Point.jpg" alt="OSINT Certificate Transparency" width="80%">
 </p>
-```
 
 ## Objective
 
