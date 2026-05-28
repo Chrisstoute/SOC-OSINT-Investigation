@@ -1,10 +1,8 @@
 # 04 - IP Reputation Analysis
 
-```markdown
 <p align="center">
   <img src="../Pictures/OSINT_Thumbprint.jpg" alt="OSINT IP Reputation Analysis" width="80%">
 </p>
-```
 
 ## Objective
 
