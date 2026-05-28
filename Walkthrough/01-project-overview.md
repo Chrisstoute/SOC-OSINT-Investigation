@@ -1,10 +1,9 @@
 # 01 - Project Overview
 
-```markdown
 <p align="center">
   <img src="../Pictures/OSINT_Palm.png" alt="OSINT Project Overview" width="80%">
 </p>
-```
+
 
 ## Project Purpose
 
